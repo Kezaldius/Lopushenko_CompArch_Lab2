@@ -4,5 +4,7 @@
 * --help — виводить коротку довідку про доступні команди.
 
 ## Приклад використання:
-./compiledprogram --add 5 3
-./compiledprogram --sub 10 4
+
+> ./compiledprogram --add 5 3
+>
+> ./compiledprogram --sub 10 4
